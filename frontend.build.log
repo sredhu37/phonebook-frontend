@@ -1,0 +1,25 @@
+>>> phonebook-frontend
+react-scripts build 
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+  44.66 KB  build\static\js\2.0b3fa237.chunk.js
+  1.43 KB   build\static\js\main.913e6984.chunk.js
+  781 B     build\static\js\runtime-main.7dc14107.js
+  202 B     build\static\css\main.e1763d91.chunk.css
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  npm install -g serve
+  serve -s build
+
+Find out more about deployment here:
+
+  bit.ly/CRA-deploy
+
