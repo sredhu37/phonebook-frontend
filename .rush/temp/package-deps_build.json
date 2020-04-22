@@ -1,5 +1,6 @@
 {
   "files": {
+    "frontend/.gitignore": "40b878db5b1c97fc77049537a71bb2e249abe5dc",
     "frontend/README.md": "89b278ae3edb64263849deb1bc26cca15fa96bf2",
     "frontend/build/asset-manifest.json": "676f8987be354f97481cfdfa0679aef0adb2a7e4",
     "frontend/build/favicon.ico": "a11777cc471a4344702741ab1c8a588998b1311a",
@@ -20,7 +21,8 @@
     "frontend/build/static/js/runtime-main.7dc14107.js": "e927bc688ef0162f32c75529fcc653c4c760aae3",
     "frontend/build/static/js/runtime-main.7dc14107.js.map": "cdce17a0b69ef8b1610c0d0cf8f7dbf324195654",
     "frontend/db.json": "9d4321fdb6fd691eb364fed472c39270f06b6ad6",
-    "frontend/package.json": "7f07961be33ab53d19f8c3980c3f72c5d84eb53b",
+    "frontend/package-lock.json": "ec0df65a9a8fe4df7f1b21308d2aada5b1fc6807",
+    "frontend/package.json": "04fb63b47f8662887d416b63d41216bdc34859a5",
     "frontend/public/favicon.ico": "a11777cc471a4344702741ab1c8a588998b1311a",
     "frontend/public/index.html": "aa069f27cbd9d53394428171c3989fd03db73c76",
     "frontend/public/logo192.png": "fc44b0a3796c0e0a64c3d858ca038bd4570465d9",
@@ -34,8 +36,8 @@
     "frontend/src/components/Persons.js": "adad9a055853e9dc90b5e82661a8424370edb535",
     "frontend/src/css/style.css": "8c2425360f74658aa8c01a456540085706aa3958",
     "frontend/src/index.js": "940608769bb6221715395f90e6f0b7ff9afcbe15",
-    "frontend/src/services/persons.js": "60577ebbe80c8a1c88ae671ab89284cbd6f7f4e6",
-    "frontend/.rush/temp/shrinkwrap-deps.json": "dc5a1a6f330ef7ba22f590be3b2e443d6b795b80"
+    "frontend/src/services/persons.js": "b2b14e6caff23fe35ca501899f3a2188fd48ac9a",
+    "frontend/.rush/temp/shrinkwrap-deps.json": "4b8c88411c81154b345d09c8fd27c6c6e44703e2"
   },
   "arguments": "react-scripts build "
 }
